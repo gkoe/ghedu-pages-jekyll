@@ -1,4 +1,3 @@
-
 ---
 page-category: session
 title: Demo Session 1

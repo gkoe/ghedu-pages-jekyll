@@ -1,0 +1,8 @@
+title: Hackathon Demo
+email: furti_gkoe@htl.ac.at
+description: > # this means to ignore newlines until "baseurl:"
+  Our first pages project.
+url: "https://gkoe.github.io/ghedu-pages-jekyll"
+twitter_username: gkoe
+github_username:  gkoe
+baseurl: /ghedu-pages-jekyll
